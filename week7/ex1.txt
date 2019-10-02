@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+ 346648	  20700	   5244	 372592	  5af70	dcol.exe
