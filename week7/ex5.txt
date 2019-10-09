@@ -1,0 +1,2 @@
+Physical address represents an offset of memory block on physical memory device (such as RAM).
+Virtual address represents an offset in virtual memory according to page table, so it can differ from real offset (two addresses can even point to different devices).

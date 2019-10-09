@@ -1,0 +1,15 @@
+vaddr size is 16 bit
+
+vaddr = ( page num (x bit) , page offset ((16 - x) bit) )
+
+page size : 4 kb
+	4 kb = 4096 b
+	offset size : log2(4096) = 12 = 16 - x
+		x = 16 - 12 = 4
+
+
+vaddr = ( page num (4 bit) , page offset (12 bit) )
+
+////////////////////////////////////
+page count = 2^(page num) = 2^4 = 16
+////////////////////////////////////
