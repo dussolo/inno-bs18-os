@@ -1,0 +1,50 @@
+итого 24K
+drwxr-xr-x 1 kkremen kkremen 114 окт 24 23:03 .
+drwxr-xr-x 1 kkremen kkremen 178 окт 24 22:53 ..
+-rw-r--r-- 3 kkremen kkremen  27 окт 24 22:53 _ex1_1.txt
+-rw-r--r-- 3 kkremen kkremen  27 окт 24 22:53 _ex1_2.txt
+-rw-r--r-- 3 kkremen kkremen  27 окт 24 22:53 _ex1.txt
+-rw-r--r-- 1 kkremen kkremen  97 окт 24 22:57 ex1.txt
+-rw-r--r-- 1 kkremen kkremen  37 окт 24 23:00 ex2.txt
+-rw-rw-rw- 1 kkremen kkremen  12 окт 24 23:01 _ex3.txt
+-rw-r--r-- 1 kkremen kkremen   0 окт 24 23:03 ex3.txt
+итого 28K
+drwxr-xr-x 1 kkremen kkremen 114 окт 24 23:03 .
+drwxr-xr-x 1 kkremen kkremen 178 окт 24 22:53 ..
+-rw-r--r-- 3 kkremen kkremen  27 окт 24 22:53 _ex1_1.txt
+-rw-r--r-- 3 kkremen kkremen  27 окт 24 22:53 _ex1_2.txt
+-rw-r--r-- 3 kkremen kkremen  27 окт 24 22:53 _ex1.txt
+-rw-r--r-- 1 kkremen kkremen  97 окт 24 22:57 ex1.txt
+-rw-r--r-- 1 kkremen kkremen  37 окт 24 23:00 ex2.txt
+-rwx---rwx 1 kkremen kkremen  12 окт 24 23:01 _ex3.txt
+-rw-r--r-- 1 kkremen kkremen 525 окт 24 23:03 ex3.txt
+итого 28K
+drwxr-xr-x 1 kkremen kkremen  114 окт 24 23:03 .
+drwxr-xr-x 1 kkremen kkremen  178 окт 24 22:53 ..
+-rw-r--r-- 3 kkremen kkremen   27 окт 24 22:53 _ex1_1.txt
+-rw-r--r-- 3 kkremen kkremen   27 окт 24 22:53 _ex1_2.txt
+-rw-r--r-- 3 kkremen kkremen   27 окт 24 22:53 _ex1.txt
+-rw-r--r-- 1 kkremen kkremen   97 окт 24 22:57 ex1.txt
+-rw-r--r-- 1 kkremen kkremen   37 окт 24 23:00 ex2.txt
+-rw-rw---- 1 kkremen kkremen   12 окт 24 23:01 _ex3.txt
+-rw-r--r-- 1 kkremen kkremen 1,1K окт 24 23:04 ex3.txt
+итого 28K
+drwxr-xr-x 1 kkremen kkremen  114 окт 24 23:03 .
+drwxr-xr-x 1 kkremen kkremen  178 окт 24 22:53 ..
+-rw-r--r-- 3 kkremen kkremen   27 окт 24 22:53 _ex1_1.txt
+-rw-r--r-- 3 kkremen kkremen   27 окт 24 22:53 _ex1_2.txt
+-rw-r--r-- 3 kkremen kkremen   27 окт 24 22:53 _ex1.txt
+-rw-r--r-- 1 kkremen kkremen   97 окт 24 22:57 ex1.txt
+-rw-r--r-- 1 kkremen kkremen   37 окт 24 23:00 ex2.txt
+-rwxrwxr-x 1 kkremen kkremen   12 окт 24 23:01 _ex3.txt
+-rw-r--r-- 1 kkremen kkremen 1,6K окт 24 23:05 ex3.txt
+итого 28K
+drwxr-xr-x 1 kkremen kkremen  114 окт 24 23:03 .
+drwxr-xr-x 1 kkremen kkremen  178 окт 24 22:53 ..
+-rw-r--r-- 3 kkremen kkremen   27 окт 24 22:53 _ex1_1.txt
+-rw-r--r-- 3 kkremen kkremen   27 окт 24 22:53 _ex1_2.txt
+-rw-r--r-- 3 kkremen kkremen   27 окт 24 22:53 _ex1.txt
+-rw-r--r-- 1 kkremen kkremen   97 окт 24 22:57 ex1.txt
+-rw-r--r-- 1 kkremen kkremen   37 окт 24 23:00 ex2.txt
+-rwxrwxrwx 1 kkremen kkremen   12 окт 24 23:01 _ex3.txt
+-rw-r--r-- 1 kkremen kkremen 2,1K окт 24 23:32 ex3.txt
