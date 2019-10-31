@@ -4,6 +4,7 @@
         "stdio.h": "c",
         "string.h": "c",
         "libgen.h": "c",
-        "stat.h": "c"
+        "stat.h": "c",
+        "mman.h": "c"
     }
 }

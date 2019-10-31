@@ -1,0 +1,10 @@
+---------------------
+Hello
+Hello
+---------------------
+Hello
+
+
+---------------------
+
+This happens because stdout is line-buffered by default.
