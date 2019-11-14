@@ -1,0 +1,4 @@
+Deadlocks detected in: 
+  proc #0
+  proc #2
+  proc #4
